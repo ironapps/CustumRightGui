@@ -198,3 +198,8 @@ document.write( '\n' );
 document.write( '\n' );
 document.write( '\n' );
 document.write( '  </style>' );
+document.write( '<style>\n' );
+document.write( 'ul{\n' );
+document.write( 'list-style-type:none;\n' );
+document.write( '}\n' );
+document.write( '</style>' );
